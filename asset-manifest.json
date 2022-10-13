@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-test/static/css/main.834aaf63.css",
+    "main.js": "/react-test/static/js/main.548d7ecb.js",
+    "static/js/787.0c3f432a.chunk.js": "/react-test/static/js/787.0c3f432a.chunk.js",
+    "static/media/kek.jpg": "/react-test/static/media/kek.75c90fdfb3555071f331.jpg",
+    "index.html": "/react-test/index.html",
+    "main.834aaf63.css.map": "/react-test/static/css/main.834aaf63.css.map",
+    "main.548d7ecb.js.map": "/react-test/static/js/main.548d7ecb.js.map",
+    "787.0c3f432a.chunk.js.map": "/react-test/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.834aaf63.css",
+    "static/js/main.548d7ecb.js"
+  ]
+}
